@@ -12,7 +12,7 @@ Html, Css, Sass, Git and Javascript
 ### Email: boluwatife1904@gmail.com
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=gLitCH1904&theme=highcontrast&show_icons=true&count_private=true&bg_color=#0000FF.)
+![Github stats](https://github-readme-stats.vercel.app/api?username=gLitCH1904&show_icons=true&count_private=true&bg_color=#0000FF.)
 <!---
 gLitCH1904/gLitCH1904 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
