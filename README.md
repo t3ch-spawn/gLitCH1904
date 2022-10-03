@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gLitCH1904
+- 👋 Hi, I’m Boluwatife
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html, css and Js 
+- 🌱 I’m currently learning Javascript and React framework
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me ...
 
